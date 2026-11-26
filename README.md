@@ -22,9 +22,9 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://medium.com/@YOUR_MEDIUM"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-FF5E3A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="(https://www.linkedin.com/in/rajdip-bera-366a33271)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="(https://medium.com/@rajdipbera2002)"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="(https://me-rajdip.github.io/My-Profile/)"><img src="https://img.shields.io/badge/Portfolio-FF5E3A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:rajdipbera2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
